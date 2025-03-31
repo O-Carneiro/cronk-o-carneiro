@@ -7,10 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Curr.   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
@@ -28,8 +25,7 @@ If you discover a security vulnerability or potential issue, please follow these
 
 - **Do Not Publicly Disclose:** To protect all users, do not publicly disclose vulnerabilities until they have been resolved.
 - **Report Privately:** Email your report to our dedicated security team at:  
-  **security@cronk.example.com**  
-  (Replace this placeholder with an appropriate secure contact email.)
+  **ocarneiro1@gmail.com**  
 - **Include Detailed Information:** When reporting, please provide a detailed description, including:
   - Steps to reproduce the issue
   - Potential impact or risks associated with the vulnerability
